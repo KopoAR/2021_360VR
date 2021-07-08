@@ -61,3 +61,7 @@ crashlytics-build.properties
 # Library
 
 Library/
+
+#Logs
+
+Logs/
